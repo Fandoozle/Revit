@@ -1,0 +1,16 @@
+Transfer Project Standards Between Models
+
+This allows Family types (including system families), Global Paramaters, line weights, materials, view templates, object styles, 
+annotations styles, color filled schemes, filled patterns and print settings.
+
+1.  Open two models (of the same Revit version)
+
+2.  Under "Manage" --> "Transfer Project Standards"
+
+3.  Select the model you want to "Copy From" in the drop down.
+
+4.  Select which standards you want to transfer.
+
+5.  Press "Ok"
+
+6.  Success!
