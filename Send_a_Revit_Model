@@ -2,10 +2,12 @@ Sending a Model Best Practices
 
 1. Copy the model file out of the directory to the Desktop or other specific file
 
-2. Open the file and make sure to click "Audit" and "Detach from Central"
+2. Open the file and make sure to click "Audit" and "Detach from Central" Note that "Audit" does not provide feed back and make take a while to complete.
 
 3. Open the model and save.
 
 4. Under the "Mange" tab select "Manage Links". Remove all links that are not being sent with the model.
 
-5. 
+5. Still under the "Manage" tab, select "Purge all Unused" and select ok. You may want to repeat the process at least twice.
+
+6. Once more select "Compact Model" This will further 
