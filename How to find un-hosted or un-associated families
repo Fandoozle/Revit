@@ -1,0 +1,8 @@
+1.            Goto the Collaborate Tab --> "Reconcile Hosting"
+2.            Under the "Orphaned Elements"  dropdown
+3.            Navigate to your specific devices
+4.            Here you can right click on a device and select a new host or delete the element.
+5.            You can also find where it is located by typing the "ID number" located at the end of the device name.
+6.            Goto Manage Tab --> Under "Inquiry" select "Select by ID" and type the ID number of the device or
+                select the device itself and them select "IDs of Selection" copy the ID number then select "select by ID"
+                again and paste the number then press "show"
